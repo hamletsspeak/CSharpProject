@@ -1,0 +1,188 @@
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.exe
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.deps.json
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.runtimeconfig.json
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\ref\rabota2.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.pdb
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\Npgsql.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Json.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.AssemblyReference.cache
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form1.resources
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormProduct.resources
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.GenerateResource.cache
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfoInputs.cache
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfo.cs
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CoreCompileInputs.cache
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CopyComplete
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\ref\rabota2.dll
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.pdb
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.genruntimeconfig.cache
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_add.resources
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClient.resources
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClientAdd.resources
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_futura.resources
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FuturaFormAdd.resources
+Z:\c_sharp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormFuturaInfoAdd.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.exe
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.deps.json
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.runtimeconfig.json
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.pdb
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.AssemblyReference.cache
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form1.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClientAdd.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormFuturaInfoAdd.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormProduct.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_add.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_futura.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FuturaFormAdd.resources
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.GenerateResource.cache
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfoInputs.cache
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfo.cs
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CoreCompileInputs.cache
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CopyComplete
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\refint\rabota2.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.pdb
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.genruntimeconfig.cache
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\ref\rabota2.dll
+C:\Users\glebk\Desktop\Capp\rabota2\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClient.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.AssemblyReference.cache
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form1.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClient.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClientAdd.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormFuturaInfoAdd.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormProduct.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_add.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_futura.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FuturaFormAdd.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.GenerateResource.cache
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfoInputs.cache
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfo.cs
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CoreCompileInputs.cache
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\refint\rabota2.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.pdb
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.exe
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.deps.json
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.runtimeconfig.json
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.pdb
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CopyComplete
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.genruntimeconfig.cache
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\ref\rabota2.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.ReportForm.resources
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\glebk\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.ResolveComReference.cache
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.exe
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.deps.json
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.runtimeconfig.json
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.pdb
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.AssemblyReference.cache
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.ResolveComReference.cache
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form1.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClient.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClientAdd.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormFuturaInfoAdd.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormProduct.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_add.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_futura.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FuturaFormAdd.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.ReportForm.resources
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.GenerateResource.cache
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfoInputs.cache
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfo.cs
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CoreCompileInputs.cache
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CopyComplete
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\refint\rabota2.dll
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.pdb
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.genruntimeconfig.cache
+C:\Users\витя\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\ref\rabota2.dll
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.AssemblyReference.cache
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.ResolveComReference.cache
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form1.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClient.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClientAdd.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormFuturaInfoAdd.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormProduct.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_add.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_futura.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FuturaFormAdd.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.ReportForm.resources
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.GenerateResource.cache
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfoInputs.cache
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfo.cs
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CoreCompileInputs.cache
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.dll
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\refint\rabota2.dll
+C:\Drive\OneDrive\Рабочий стол\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.pdb
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.AssemblyReference.cache
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.ResolveComReference.cache
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form1.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClient.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormClientAdd.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormFuturaInfoAdd.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FormProduct.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_add.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.Form_futura.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.FuturaFormAdd.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.ReportForm.resources
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.GenerateResource.cache
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfoInputs.cache
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.AssemblyInfo.cs
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\refint\rabota2.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.pdb
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.exe
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.deps.json
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.runtimeconfig.json
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\rabota2.pdb
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.csproj.Up2Date
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\rabota2.genruntimeconfig.cache
+C:\Users\Natali\Desktop\CappZ\rabota2\rabota2\obj\Debug\net6.0-windows\ref\rabota2.dll
